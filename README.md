@@ -1,7 +1,7 @@
 # MaeNaturesa
 Projeto desenvolvido em Unity3D e programação em C# jogo 2D de plataforma com o tema de sustentabilidade
 
-![FolderMaeNatureza](https://github.com/NaejNunes/MaeNaturesa/blob/master/foldermaenaturesa.png?raw=true)
+![FolderMaeNatureza](https://github.com/NaejNunes/MaeNatureza/blob/master/foldermaenaturesa.png?raw=true)
 
 #### Plataforma
 - PC
